@@ -9,7 +9,7 @@
   </li>
   <li>git commit -m "first commit"</li>
   <li>
-    git remote add origin REPO-GIT URL
+    git remote add origin REPO-GIT-URL
   </li>
   <li>
     git subtree push --prefix dist origin gh-pages
@@ -17,4 +17,4 @@
 </ul>
 
 
-URL: https://munkhtsogt.github.io/demo1/
+DEMO URL: https://munkhtsogt.github.io/demo1/
